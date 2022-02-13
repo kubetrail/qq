@@ -3,7 +3,14 @@
 The intended use is to establish a shared key for sending and receiving
 short messages, hence the name `qq`, short for quick question!
 
+## disclaimer
+> The use of this tool does not guarantee security or suitability for
+> any particular use. Please review the code and use at your own risk.
+
 ## installation
+This step assumes you have [Go compiler toolchain](https://go.dev/dl/)
+installed on your system.
+
 Download the code and cd to the folder, then run
 ```bash
 go install
